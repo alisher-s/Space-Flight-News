@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Single DayNight theme for the whole app -->
+    <style name="Theme.BrightNews" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- your primary colors -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
